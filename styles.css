@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  input[type="submit"] {
+    margin-top: 10px;
+  }
+
+  #myForm{
+    border:2px solid black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #email{
+    margin-bottom: 10px;
+    
+  }
